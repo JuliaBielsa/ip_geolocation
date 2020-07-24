@@ -1,1 +1,1 @@
-# ip_geolocation
+This script uses an API to geolocate a list of IPs. This is useful when you have to locate a huge amount of IP addresses: just paste them in iplist.txt and run the script, it will create an output.txt containing the countries where those IPs are located.
